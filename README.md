@@ -6,11 +6,11 @@ with open(infile) as in_file:
 
 
 I utilized Stackoverflow for reference only when it comes how to initite code regarding specfic data.  Reference only 
-
+--------------------------------------------------------
 
 I utilized the sane initation process that kelli helped me with on election data and I did the same thing to my Budget_data
 
-
+--------------------------------------------------------
 Utilized BCS assistant and an "Amilla" (TA) assisted me with the line of code listed below for the Budget_data
 
 if previous_value is not None: #this logic will start from the second iteration and will hold as true 
